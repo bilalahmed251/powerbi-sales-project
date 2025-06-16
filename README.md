@@ -53,5 +53,5 @@ Visualizes how profit changed over the recorded dates.
 
 ## 📬 Contact
 Want to collaborate or have feedback?  
-[Your LinkedIn Profile](https://linkedin.com/in/yourname)
+[Your LinkedIn Profile] [https://www.linkedin.com/in/bilal-ahmed-738a84290/]
 
